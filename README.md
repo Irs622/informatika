@@ -110,6 +110,20 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
+Berikut adalah contoh algoritma dalam bentuk flowchart untuk pembuatan kapal kertas:
+
+Algoritma:
+     1. Mulai
+     2. Pilih kertas yang akan digunakan untuk membuat kapal
+     3. Lipat kertas menjadi dua bagian (menjadi seperti buku)
+     4. Lipat bagian atas kertas ke bawah membentuk segitiga (mirip seperti atap rumah)
+     5. Lipat kedua sudut sisi kertas ke bagian tengah (membentuk bentuk segitiga terbalik)
+     6. Balik kertas dan lipat kembali kedua sudut sisi ke bagian tengah
+     7. Buka lipatan di bagian bawah kertas (kapal kertas sekarang memiliki "runcing" di bagian bawahnya)
+     8. Lipat ke bawah sisi kiri dan kanan kertas untuk membentuk dasar kapal
+     9. Kapal kertas selesai
+     10. Selesai
+
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
