@@ -90,6 +90,20 @@ saya telah mencoba dan mengaktifkan google collab dan telah mengerakan beberapa 
 
 ### Windows CMD [v] ⭐⭐⭐⭐
 
+Berikut adalah beberapa perintah dasar yang sering digunakan di Command Prompt (CMD) pada sistem operasi Windows:
+
+1. dir: Menampilkan daftar file dan folder dalam direktori saat ini.
+2. cd: Pindah ke direktori lain.
+3. mkdir: Membuat direktori baru.
+4. copy: Menyalin file dari satu lokasi ke lokasi lain.
+5. del: Menghapus file.
+6. rmdir: Menghapus direktori.
+7. ren: Mengganti nama file atau direktori.
+8. type: Menampilkan isi dari file teks.
+9. echo: Menampilkan teks ke layar atau menulis teks ke file.
+10. cls: Membersihkan layar.
+11. help: Menampilkan bantuan untuk perintah tertentu.
+
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
