@@ -113,6 +113,7 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 Berikut adalah contoh algoritma dalam bentuk flowchart untuk pembuatan kapal kertas:
 
 Algoritma:
+
      1. Mulai
      2. Pilih kertas yang akan digunakan untuk membuat kapal
      3. Lipat kertas menjadi dua bagian (menjadi seperti buku)
