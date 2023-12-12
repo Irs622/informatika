@@ -176,6 +176,10 @@ public class BubbleSortExample {
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
+aku telah mencoba dan mengekplorasi beberapa vitur pada HackerRank dengan 
+
+link provil https://www.hackerrank.com/profile/ichalprov
+
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
