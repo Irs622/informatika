@@ -357,8 +357,11 @@ Profesi-profesi ini mencakup berbagai tingkatan pengalaman dan keahlian, dan pil
 tapi untuk mayoritas profesi yang di minati untuk maba informatika UIN SGD ialah ////........
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+daya telah mengeksplorasi beberapa tool pada dualingo dari dua bahasa yakni bahasa arab dan bahasa inggris 
 
-## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
+## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
+saya telah mengeksplorasi beberapa tools di HelloTalk dengan dua bahasa yakni arab dan inggris 
+
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 saya telah mengekplorasi beberapa pekeraan di bidag IT seperti fullstack devoloper ux ui desainer dan lain lain dan untuk daerah indonesia kabenayak mencantumkan syarat minimal punya pengalaman kerja lebih dari satu tahun ....
@@ -366,8 +369,63 @@ saya telah mengekplorasi beberapa pekeraan di bidag IT seperti fullstack devolop
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 saya telah mengeksplorasi beberapa lowongan freelancer IT di beberapa web tersebut.......................
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+ saya telah mengekplorasi web tersebut . Roadmap.sh adalah situs web yang menyediakan panduan visual atau roadmap untuk berbagai bidang teknologi dan pengembangan perangkat lunak. Berikut adalah beberapa topik yang umumnya dicakup di Roadmap.sh untuk beberapa bidang populer: 
+
+ Pengembangan Web Front-end:
+
+HTML, CSS, dan JavaScript dasar
+Frameworks front-end seperti React, Angular, atau Vue.js
+Pengujian dan otomatisasi pengujian
+Pengelolaan state
+Navigasi dan routing
+Pengembangan Web Back-end:
+
+Bahasa pemrograman seperti Node.js, Python, atau Ruby
+Frameworks back-end seperti Express, Flask, atau Ruby on Rails
+Basis data dan ORM (Object-Relational Mapping)
+Keamanan aplikasi web
+API dan integrasi layanan
+Pengembangan Mobile:
+
+Pengembangan aplikasi mobile native atau cross-platform
+Frameworks seperti React Native, Flutter, atau Xamarin
+Manajemen state di aplikasi mobile
+Pengujian dan debugging di perangkat mobile
+Ilmu Data dan Analisis:
+
+Bahasa pemrograman seperti Python atau R
+Pengolahan data dengan pandas, NumPy, atau TensorFlow
+Visualisasi data dengan matplotlib, Seaborn, atau D3.js
+Pembelajaran mesin dan kecerdasan buatan
+Pengembangan Perangkat Lunak Umum:
+
+Pengelolaan kode sumber dengan Git
+Metodologi pengembangan perangkat lunak (seperti Agile atau Scrum)
+Pengujian perangkat lunak (unit testing, integrasi, dan pengujian fungsional)
+Konsep dasar pengembangan perangkat lunak
+Sistem dan Jaringan:
+
+Administrasi sistem operasi (Linux atau Windows)
+Jaringan komputer dan protokol
+Keamanan jaringan
+Manajemen server dan cloud computing
+Keamanan Informasi:
+
+Keamanan aplikasi web
+Keamanan jaringan
+Pengujian keamanan (ethical hacking)
+Kriptografi dan keamanan data
+Pengembangan Game:
+
+Pengembangan game dengan Unity atau Unreal Engine
+Grafika dan animasi dalam game
+Fisika game
+Kecerdasan buatan dalam game
+
+sebenarnya peminatan dalam situs tersebut semua tergantun pada minat kita masing masing saja .....
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
+
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
