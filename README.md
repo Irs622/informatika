@@ -425,15 +425,28 @@ Kecerdasan buatan dalam game
 sebenarnya peminatan dalam situs tersebut semua tergantun pada minat kita masing masing saja .....
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
+ saya telah mengeksplorasi beberapa proek di github dan pada hari ini re tanggal 14 bulan 12 tahun 2023 yang seddang ternding dan di minati adalah chatbote seperti :
+ 
+ LobeChat adalah kerangka chatbot sumber terbuka dan berkinerja tinggi
+yang mendukung sistem plugin sintesis ucapan, multimodal, dan dapat diperluas (Panggilan Fungsi).
+Mendukung penerapan gratis satu klik untuk aplikasi web ChatGPT/LLM pribadi Anda.
 
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
+saya telah membangun akun linkedin degan link akun sebagai berikut yakni www.linkedin.com/in/lm-irsal-shydiq
+dan saya telah mengikuti beberapa akun akun inspiraatif bertema informatika seperti 
+1. Information Technology (IT) Learning Group - LinkedIn Learning
+2. Information Technology: Developer, Engineer, Analyst, Technician, Scientist | Blockchain | Metaverse
+
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
+saya telah membangun provil github ...............................
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+saya telah mendaftar dan mengikuti even gdsc meskupun saya kurang aktif dalam organisasi tersebut di karenakan saya kuraang bisa mengatur waktu saya ...............
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+
 
 
 
