@@ -287,6 +287,13 @@ sendangkan grade jurnal ialah ..........................................
 
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+saya atelah mengekplorasi artikel jurnal yang tedapat pada Science Direct dengan judul **Dataset about information technology
+governance: A survey in Colombian enterprises** 
+
+Survei ini bertujuan untuk mendapatkan dan menganalisis informasi relevan mengenai implementasi praktik terbaik dalam tata kelola teknologi informasi di organisasi di Kolombia untuk mengidentifikasi tren saat ini dalam manajemen proyek Teknologi Informasi (TI), dampak dari tata kelola TI, dan penggunaan teknologi yang sedang berkembang. Survei semi-struktural dilakukan di antara para profesional TI dari perusahaan-perusahaan Kolombia berbagai ukuran dan sektor ekonomi antara tahun 2019 dan 2022. Survei ini dirancang dengan mempertimbangkan referensi internasional, seperti ISACA, dan mengikuti metodologi Kimball untuk memandu analisis. Sebanyak 252 tanggapan dikumpulkan, dan 237 catatan dianalisis.
+
+Dari analisis, disimpulkan bahwa implementasi sukses tata kelola TI dapat meningkatkan efisiensi, produktivitas, pengambilan keputusan, keamanan informasi, daya saing, dan kualitas layanan pelanggan. Namun, Usaha Kecil dan Menengah (UKM) menghadapi tantangan seperti kurangnya sumber daya manusia yang terampil, resistensi terhadap perubahan, dan biaya implementasi yang tinggi. Untuk mengatasi tantangan ini, strategi seperti memprioritaskan investasi, fokus pada bakat internal, berkomunikasi tentang manfaat dan hasil yang diharapkan, serta berinvestasi dalam pelatihan personel organisasi disarankan.
+
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
