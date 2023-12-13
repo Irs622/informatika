@@ -263,8 +263,13 @@ saya telah mendaftar dan telah mengeksplorasi sebagian kecil dari HuggingFace de
 
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+saya telah mengeksplorasi kanggel dan beberapa fitur di dalamnya 
+kangel adalah Kaggle adalah platform kompetisi ilmu data dan komunitas online ilmuwan data dan praktisi pembelajaran mesin di bawah Google LLC 
+
+dengan aku sebagai berikut 
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
@@ -272,20 +277,94 @@ saya telah mendaftar dan telah mengeksplorasi sebagian kecil dari HuggingFace de
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
+Jurnal adalah karya tulis ilmiah yang berisi catatan, penelitian, atau pemikiran seseorang atau sekelompok orang dalam bidang tertentu. Jurnal disusun sesuai dengan standar akademik tertentu dan diterbitkan oleh lembaga atau penerbit yang kredibel
+
+Conference adalah Sebuah pertemuan atau acara di mana para profesional pendidikan, seperti guru, administrator sekolah, peneliti pendidikan, dan praktisi lainnya, berkumpul untuk berbagi pengetahuan, hasil penelitian, dan pengalaman. Konferensi ini dapat mencakup presentasi, lokakarya, diskusi panel, dan interaksi antar peserta.
+
+Artikel adalah karya tulis yang berisi gagasan, opini, data, atau informasi yang dipublikasikan di media. Artikel dapat berupa laporan berita, esai, atau tulisan non-fiksi. Artikel dapat terbit di media cetak, media online, dan media sosial
+
+sendangkan grade jurnal ialah ..........................................
+
+
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+berikut adalah beberapa profesi terkait infotmatika dan provesi yang di minati 
+1. Programmer/Developer Perangkat Lunak:
+Merancang, mengembangkan, dan memelihara perangkat lunak.
+
+2. Analisis Sistem:
+Meneliti dan merancang sistem informasi agar sesuai dengan kebutuhan bisnis.
+
+3. Administrator Jaringan:
+Bertanggung jawab atas manajemen dan pemeliharaan jaringan komputer dalam suatu organisasi.
+
+4. Spesialis Keamanan Informasi:
+Melindungi sistem informasi dari ancaman keamanan dan mengembangkan kebijakan keamanan.
+
+5. Analisis Data/Ilmuwan Data:
+Mengolah, menganalisis, dan menafsirkan data untuk mendukung pengambilan keputusan.
+
+6. Aplikasi Mobile Developer:
+Mengembangkan aplikasi untuk perangkat mobile seperti ponsel pintar dan tablet.
+
+7. Pengembang Web:
+Merancang dan mengembangkan situs web dan aplikasi berbasis web.
+
+8. Administrator Basis Data:
+Mengelola dan memelihara basis data organisasi.
+
+9. Pengelola Proyek TI:
+Mengelola proyek pengembangan perangkat lunak atau implementasi sistem informasi.
+
+10. Desainer UX/UI:
+Merancang antarmuka pengguna yang ramah dan pengalaman pengguna yang baik.
+
+11. Ahli Kecerdasan Buatan:
+Mengembangkan solusi berbasis kecerdasan buatan untuk memecahkan masalah kompleks.
+
+12. Pakar Cloud Computing:
+Merancang, mengimplementasikan, dan mengelola solusi berbasis cloud.
+
+13. Ahli Big Data:
+Mengelola dan menganalisis volume besar data untuk mendapatkan wawasan.
+
+14. Pengajar/Tenaga Pendidik Informatika:
+Mengajar dan melatih siswa atau profesional dalam bidang informatika.
+
+15. Konsultan TI:
+Memberikan saran ahli tentang strategi dan teknologi informasi kepada organisasi.
+
+16/ Teknisi Dukungan TI:
+Menyediakan dukungan teknis dan pemecahan masalah bagi pengguna akhir.
+
+17. Ahli Robotika:
+Terlibat dalam pengembangan dan pemeliharaan robot dan sistem otomasi.
+
+18. Pengembang Game:
+Merancang dan mengembangkan permainan komputer dan konsol.
+
+19. Pengembang Realitas Virtual/Augmented:
+Mengembangkan aplikasi dan pengalaman dalam lingkungan realitas virtual dan augmented.
+
+20. Pengembang Keamanan Aplikasi:
+Memastikan bahwa aplikasi perangkat lunak aman dari potensi kerentanan keamanan.
+
+Profesi-profesi ini mencakup berbagai tingkatan pengalaman dan keahlian, dan pilihan profesi dapat bergantung pada minat pribadi, keterampilan, dan tujuan karir seseorang. Selain itu, bidang informatika terus berkembang, sehingga penting untuk tetap memperbarui pengetahuan dan keterampilan agar tetap relevan di dunia industri yang dinamis ini.
+
+tapi untuk mayoritas profesi yang di minati untuk maba informatika UIN SGD ialah ////........
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+saya telah mengekplorasi beberapa pekeraan di bidag IT seperti fullstack devoloper ux ui desainer dan lain lain dan untuk daerah indonesia kabenayak mencantumkan syarat minimal punya pengalaman kerja lebih dari satu tahun ....
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
-
+saya telah mengeksplorasi beberapa lowongan freelancer IT di beberapa web tersebut.......................
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
