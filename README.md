@@ -173,6 +173,7 @@ public class BubbleSortExample {
 
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+baiklah saya telah mencoba dan menggunakan beberapa macam IDE seperti Visual Studio Code dan Android Studio 
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
