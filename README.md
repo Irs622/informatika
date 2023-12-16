@@ -124,6 +124,8 @@ Algoritma:
      8. Lipat ke bawah sisi kiri dan kanan kertas untuk membentuk dasar kapal
      9. Kapal kertas selesai
      10. Selesai
+     ![image](https://github.com/Irs622/informatika/assets/144502106/fa100b13-aac4-4f0d-8170-f4f959d47ecd)
+
 
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
