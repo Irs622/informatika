@@ -281,6 +281,8 @@ saya telah mencoba web AI Genenratif Teks to Image dari Adeobe Firefly
 
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
+saya  telah mencoba Model Machine Learning menggunakan HuggingFace
+![image](https://github.com/Irs622/informatika/assets/144502106/d389ca7c-7497-43c4-abfe-464dd4c80be1)
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
