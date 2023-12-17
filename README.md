@@ -251,6 +251,11 @@ saya telah mengakses Konten Multimedia (Image, Audio, Video) menggunkan cupcut
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 
+saya telah mengakses Konten Multimedia (Image, Audio, Video) menggunkan cupcut 
+
+![image](https://github.com/Irs622/informatika/assets/144502106/f6b7cba5-1f47-4a51-8985-946e9d382b33)
+
+
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
