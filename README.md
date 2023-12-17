@@ -287,6 +287,61 @@ saya  telah mencoba Model Machine Learning menggunakan HuggingFace
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
+Data visualization adalah teknik untuk menggambarkan informasi dan data secara grafis. Ini membantu memahami pola, tren, dan hubungan dalam data dengan lebih baik. berikut adalah contohnya: 
+
+import org.jfree.chart.ChartFactory;
+import org.jfree.chart.ChartPanel;
+import org.jfree.chart.JFreeChart;
+import org.jfree.data.category.CategoryDataset;
+import org.jfree.data.category.DefaultCategoryDataset;
+
+import javax.swing.*;
+
+public class BarChartExample extends JFrame {
+
+    public BarChartExample(String title) {
+        super(title);
+
+
+        CategoryDataset dataset = createDataset();
+
+
+        JFreeChart chart = ChartFactory.createBarChart(
+                "Contoh Bar Chart",     
+                "Kategori",             
+                "Nilai",                
+                dataset
+        );
+
+        ChartPanel chartPanel = new ChartPanel(chart);
+        chartPanel.setPreferredSize(new java.awt.Dimension(560, 370));
+        setContentPane(chartPanel);
+    }
+
+    private CategoryDataset createDataset() {
+        DefaultCategoryDataset dataset = new DefaultCategoryDataset();
+
+        dataset.addValue(1.0, "Series1", "Category1");
+        dataset.addValue(4.0, "Series1", "Category2");
+        dataset.addValue(3.0, "Series1", "Category3");
+        dataset.addValue(5.0, "Series1", "Category4");
+
+        return dataset;
+    }
+
+    public static void main(String[] args) {
+        SwingUtilities.invokeLater(() -> {
+            BarChartExample example = new BarChartExample("Contoh Bar Chart");
+            example.setSize(800, 600);
+            example.setLocationRelativeTo(null);
+            example.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
+            example.setVisible(true);
+        });
+    }
+}
+
+
+Kode di atas membuat contoh bar chart sederhana menggunakan JFreeChart.
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 saya telah mendaftar dan telah mengeksplorasi sebagian kecil dari HuggingFace dengan akun sebagai berikut
@@ -398,6 +453,9 @@ tapi untuk mayoritas profesi yang di minati untuk maba informatika UIN SGD ialah
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 daya telah mengeksplorasi beberapa tool pada dualingo dari dua bahasa yakni bahasa arab dan bahasa inggris 
+
+![image](https://github.com/Irs622/informatika/assets/144502106/b6f0dff7-8cc1-4ad9-ae29-750a80f4b547)
+
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
 saya telah mengeksplorasi beberapa tools di HelloTalk dengan dua bahasa yakni arab dan inggris 
