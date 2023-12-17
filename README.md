@@ -84,7 +84,7 @@ Mesin komputasi adalah perangkat keras yang dirancang untuk melakukan pemrosesan
 
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
-saya telah mencoba dan mengaktifkan google collab dan telah mengerakan beberapa proek yang telah di berikan pada dosen saya seperti pengguaan library untuk membuat teks menjadi suara 
+saya telah mencoba dan mengaktifkan google collab dan telah mengerjakan projek perkenalan diri seperti berikut https://colab.research.google.com/drive/1u5w522dFMLTir5unS_XM8lM1vzSX6NT-?usp=sharing
 
 ## Mencoba Console Sistem Operasi
 
