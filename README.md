@@ -222,9 +222,6 @@ Dengan demikian, URL ini mengarah ke situs web yang disimpan di server dengan na
 
 Sebagai catatan tambahan, sering kali dalam pengembangan web modern, URL seperti ini dapat mengindikasikan bahwa kita berada di bagian dashboard dari suatu aplikasi web, dan `index.php` mungkin adalah berkas utama yang mengontrol tampilan dan fungsi dasbor tersebut.
 
-
-Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
-
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
