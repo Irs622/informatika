@@ -211,11 +211,10 @@ Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.ht
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
+berikut adlah file dari Halaman Web Menggunakan HTML, CSS, dan JavaScript yanng telah saya buat 
 
-Referensi tutorial 
-- Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
-- Styling halaman web : [CSS](https://www.w3schools.com/css/)
-- Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
+
+
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
@@ -285,9 +284,10 @@ kangel adalah Kaggle adalah platform kompetisi ilmu data dan komunitas online il
 dengan aku sebagai berikut 
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
-
+saya telah mencoba protokol komonikasi Iot (MQTT) di kelas pengenalan informatika bersama kawan kawan saya ...
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
