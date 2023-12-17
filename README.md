@@ -290,10 +290,15 @@ saya  telah mencoba Model Machine Learning menggunakan HuggingFace
 Data visualization adalah teknik untuk menggambarkan informasi dan data secara grafis. Ini membantu memahami pola, tren, dan hubungan dalam data dengan lebih baik. berikut adalah contohnya: 
 
 import org.jfree.chart.ChartFactory;
+
 import org.jfree.chart.ChartPanel;
+
 import org.jfree.chart.JFreeChart;
+
 import org.jfree.data.category.CategoryDataset;
+
 import org.jfree.data.category.DefaultCategoryDataset;
+
 
 import javax.swing.*;
 
