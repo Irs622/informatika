@@ -244,6 +244,10 @@ link https://produkinformatic.wordpress.com/2023/11/30/genre-fotografi-yang-jara
 
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
+saya telah mengakses Konten Multimedia (Image, Audio, Video) menggunkan cupcut 
+
+![image](https://github.com/Irs622/informatika/assets/144502106/f6b7cba5-1f47-4a51-8985-946e9d382b33)
+
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 
