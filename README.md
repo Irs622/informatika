@@ -204,6 +204,25 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
+Mari kita analisis URL dari contoh web yang diberikan: `https://salam.uinsgd.ac.id/dashboard/index.php`
+
+1. **Protokol (Scheme):**
+   - **Contoh:** `https`
+   - **Penjelasan:** Protokol HTTPS (Hypertext Transfer Protocol Secure) digunakan, menunjukkan bahwa komunikasi antara klien dan server dienkripsi untuk keamanan.
+
+2. **Nama Domain:**
+   - **Contoh:** `salam.uinsgd.ac.id`
+   - **Penjelasan:** Ini adalah nama domain dari situs web tersebut.
+
+3. **Path:**
+   - **Contoh:** `/dashboard/index.php`
+   - **Penjelasan:** Menunjukkan jalur atau direktori dari sumber daya yang diminta di server. Dalam contoh ini, sumber daya berada di jalur `/dashboard/index.php`.
+
+Dengan demikian, URL ini mengarah ke situs web yang disimpan di server dengan nama domain `salam.uinsgd.ac.id`, dan sumber daya yang diminta adalah file `index.php` yang terletak dalam direktori atau jalur `/dashboard`.
+
+Sebagai catatan tambahan, sering kali dalam pengembangan web modern, URL seperti ini dapat mengindikasikan bahwa kita berada di bagian dashboard dari suatu aplikasi web, dan `index.php` mungkin adalah berkas utama yang mengontrol tampilan dan fungsi dasbor tersebut.
+
+
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
@@ -212,8 +231,6 @@ Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_doma
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 berikut adlah file dari Halaman Web Menggunakan HTML, CSS, dan JavaScript yanng telah saya buat 
-
-
 
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
@@ -290,6 +307,7 @@ saya telah mencoba protokol komonikasi Iot (MQTT) di kelas pengenalan informatik
 
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
