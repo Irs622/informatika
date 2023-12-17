@@ -107,6 +107,8 @@ Berikut adalah beberapa perintah dasar yang sering digunakan di Command Prompt (
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+saya telah menggunakan linux dalam google colab 
+https://colab.research.google.com/drive/1a0YsGfP85vd4OGvpapMHinqvqxGv0Pc2?usp=sharing
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
