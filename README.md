@@ -263,6 +263,9 @@ saya telah mengakses Konten Multimedia (Image, Audio, Video) menggunkan cupcut
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+saya telah mencoba web AI Genenratif Teks to Image dari Adeobe Firefly 
+![image](https://github.com/Irs622/informatika/assets/144502106/c345dd07-c63c-4dc2-8040-53e76ed23f19)
+
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
