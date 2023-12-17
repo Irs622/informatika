@@ -125,11 +125,9 @@ Algoritma:
      9. Kapal kertas selesai
      10. Selesai
      
+  
      
-     ![image](https://github.com/Irs622/informatika/assets/144502106/7a49f339-b6f9-41e7-aa85-6cf276b03388)
-
-
-Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
+![diagram drawio](https://github.com/Irs622/informatika/assets/144502106/ee1a08ff-13e4-406b-b572-c765d023d184)
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
