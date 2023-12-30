@@ -221,8 +221,55 @@ berikut adlah file dari Halaman Web Menggunakan HTML, CSS, dan JavaScript yanng 
 
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
+sebenarnya tak ada search engie optimization yang benar benar bekerja karna kita sendiri tak tau bagemna algoritma google bekerja di belakang layar .
 
-Referensi []
+Search Engine Optimization (SEO) adalah serangkaian teknik dan strategi yang diterapkan pada sebuah situs web untuk meningkatkan visibilitasnya dalam hasil mesin pencari seperti Google, Bing, dan Yahoo. Berikut adalah beberapa teknik SEO yang dapat diterapkan pada elemen HTML dari suatu halaman web:
+
+Title Tag:
+
+Setiap halaman HTML seharusnya memiliki tag <title> yang memberikan deskripsi singkat dan relevan mengenai konten halaman tersebut.
+Pastikan judul tidak terlalu panjang dan mencakup kata kunci yang relevan dengan konten halaman.
+
+Meta Description:
+
+Gunakan tag meta description <meta name="description" content="Deskripsi singkat halaman"> untuk memberikan ringkasan tentang konten halaman.
+Pastikan meta description mengandung kata kunci dan memikat pengguna potensial.
+
+Header Tags (H1, H2, H3, dst.):
+
+Gunakan tag header (<h1>, <h2>, dll.) untuk mengorganisir dan menyoroti judul dan sub-judul.
+Pastikan kata kunci utama muncul dalam tag header.
+
+URL Struktur:
+
+Buat struktur URL yang bersahabat dan mudah dipahami oleh pengguna.
+Gunakan kata kunci dalam URL jika memungkinkan
+
+Alt Attribute untuk Gambar:
+
+Tambahkan atribut alt pada tag gambar (<img>) untuk memberikan teks deskripsi jika gambar tidak dapat dimuat.
+Gunakan deskripsi yang relevan dan inklusif kata kunci.
+
+Internal dan Eksternal Linking:
+
+Gunakan internal linking untuk menghubungkan halaman yang saling terkait di situs web.
+Gunakan eksternal linking ke situs web otoritatif dan relevan.
+Pastikan teks anchor (teks tautan) mengandung kata kunci.
+
+Mobile Responsiveness:
+
+Pastikan halaman web dirancang responsif untuk mendukung tampilan yang baik pada perangkat mobile.
+Google memberikan perhatian khusus pada situs yang mobile-friendly.
+
+Canonical Tag:
+
+Gunakan tag canonical untuk mencegah konten duplikat dan memberi tahu mesin pencari tentang versi utama dari halaman.
+
+Robots Meta Tag:
+
+Gunakan tag meta robots untuk mengontrol indeksasi mesin pencari dan mengarahkan bots untuk mengikuti atau tidak mengikuti tautan.
+
+Penerapan teknik SEO pada elemen HTML ini membantu mesin pencari memahami konten halaman web dan meningkatkan peluang situs web untuk muncul dalam hasil pencarian yang relevan. Selain itu, menyediakan pengalaman pengguna yang baik juga menjadi faktor penting dalam strategi SEO.
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 saya telah membuat file json dan telah saya up pada page ini 
