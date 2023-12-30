@@ -394,6 +394,9 @@ Dari analisis, disimpulkan bahwa implementasi sukses tata kelola TI dapat mening
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
+![image](https://github.com/Irs622/informatika/assets/144502106/1edd3971-f196-4151-b362-f1ab2cbd8cc3)
+
+
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 berikut adalah beberapa profesi terkait infotmatika dan provesi yang di minati 
 1. Programmer/Developer Perangkat Lunak:
