@@ -355,6 +355,8 @@ berikut adalah cotohnya
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+saya mencoba web Tool AI Discriminative (image classification) di menggunakan huggingface yang dimana saya memasukkan gambar ke dalam kolom yang sesuai di perintahkan dan begini hasilnya.
+![image](https://github.com/Irs622/informatika/assets/144502106/9431db79-fbfa-4c66-bcc1-01736e88aa89)
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 saya telah mencoba web AI Genenratif Teks to Image dari Adeobe Firefly 
