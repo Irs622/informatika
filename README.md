@@ -73,16 +73,6 @@ Mesin komputasi adalah perangkat keras yang dirancang untuk melakukan pemrosesan
 **Setiap jenis mesin komputasi memiliki karakteristik dan aplikasi yang berbeda-beda sesuai dengan kebutuhan penggunaannya. Perkembangan teknologi terus mendorong kemajuan dalam desain dan kinerja mesin komputasi**
 
 
-
-
-
-
-
-
-
-
-
-
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 saya telah mencoba dan mengaktifkan google collab dan telah mengerjakan projek perkenalan diri seperti berikut https://colab.research.google.com/drive/1u5w522dFMLTir5unS_XM8lM1vzSX6NT-?usp=sharing
 
@@ -235,6 +225,7 @@ berikut adlah file dari Halaman Web Menggunakan HTML, CSS, dan JavaScript yanng 
 Referensi []
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+saya telah membuat file json dan telah saya up pada page ini 
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
@@ -242,17 +233,44 @@ Referensi []
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+Kehadiran API caller mempermudah developer backend dalam membuat akses API tanpa harus menunggu hasil dari kerja developer. Sehingga kinerja pengembangan sistem pun menjadi lebih efisien.
+HTTP (Hypertext Transfer Protocol) Request adalah pesan yang dikirim oleh klien (biasanya browser web) ke server untuk meminta tindakan tertentu. Ini adalah cara standar untuk berkomunikasi antara klien dan server di World Wide Web.
+
+Web API (Application Programming Interface) adalah kumpulan aturan dan protokol yang memungkinkan aplikasi berkomunikasi satu sama lain. Web API memungkinkan aplikasi atau layanan untuk berbagi data dan fungsi dengan aplikasi atau layanan lain melalui permintaan HTTP. Hoppscotch dan Postman adalah dua alat yang digunakan untuk menguji, mengelola, dan berinteraksi dengan Web API.
+contohnya sebagai berikut 
+![image](https://github.com/Irs622/informatika/assets/144502106/7ac3b9d8-15af-4ba1-8746-9838d2108a8b)
+
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 berikut adalah penggunaan Developer Tools Pada Web Browser pada Chrome
 ![image](https://github.com/Irs622/informatika/assets/144502106/9505e9b7-fd10-41bf-ba70-f87ed5342110)
 
 
-
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
-Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
+GCP (Google Cloud Platform), AWS (Amazon Web Services), dan Azure (Microsoft Azure) adalah tiga penyedia layanan cloud terkemuka yang menyediakan berbagai layanan infrastruktur awan untuk memenuhi kebutuhan organisasi dan pengembang. Berikut adalah gambaran umum tentang layanan cloud yang diminati dari ketiga penyedia tersebut:
 
-Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
+### Google Cloud Platform (GCP):
+1. **Google Compute Engine (GCE):** Menyediakan mesin virtual (VM) yang dapat disesuaikan dan dielaborasi untuk menjalankan aplikasi dan beban kerja.
+2. **Google Kubernetes Engine (GKE):** Layanan manajemen Kubernetes yang memudahkan orkestrasi dan penyebaran aplikasi berbasis container.
+3. **BigQuery:** Platform analisis data yang cepat dan skalabel dengan dukungan SQL untuk mengolah dan menganalisis set data besar.
+4. **Google Cloud Storage:** Penyimpanan objek yang aman dan skalabel untuk menyimpan dan mengambil data dari aplikasi dan situs web.
+5. **Google Cloud AI dan Machine Learning:** Berbagai layanan untuk membangun, melatih, dan mengevaluasi model machine learning.
+
+### Amazon Web Services (AWS):
+1. **Amazon EC2:** Penyedia mesin virtual skalabel yang dapat dikonfigurasi dan disesuaikan.
+2. **Amazon S3:** Penyimpanan objek yang aman dan scalable untuk menyimpan dan mengambil data.
+3. **AWS Lambda:** Layanan komputasi serverless yang memungkinkan eksekusi kode tanpa perlu mengelola server.
+4. **Amazon RDS:** Layanan basis data yang dikelola dengan dukungan untuk berbagai jenis database seperti MySQL, PostgreSQL, dan MongoDB.
+5. **Amazon AI dan Machine Learning:** Menyediakan layanan seperti Amazon SageMaker untuk pengembangan dan pengelolaan model machine learning.
+
+### Microsoft Azure:
+1. **Azure Virtual Machines:** Mesin virtual yang dapat disesuaikan untuk menjalankan aplikasi dan layanan.
+2. **Azure Blob Storage:** Penyimpanan objek scalable untuk data yang tidak terstruktur.
+3. **Azure Functions:** Layanan serverless yang memungkinkan eksekusi kode berbasis peristiwa.
+4. **Azure SQL Database:** Layanan basis data yang dikelola dengan dukungan untuk SQL Server.
+5. **Azure Machine Learning:** Platform untuk pengembangan, pelatihan, dan implementasi model machine learning.
+
+Ketiga penyedia cloud ini menawarkan berbagai layanan termasuk komputasi, penyimpanan, database, kecerdasan buatan, dan banyak lagi. Pilihan antara GCP, AWS, atau Azure sering kali tergantung pada kebutuhan spesifik suatu organisasi, preferensi, dan integrasi dengan teknologi yang sudah ada. Keputusan ini dapat dipengaruhi oleh faktor seperti ketersediaan layanan, kinerja, keamanan, dan biaya.
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 saya telah mencoba penggunaan wordpress dan telah membuat salah satu blog /web dalam gendre fotographi dan baca al quran 
@@ -274,6 +292,14 @@ saya telah mengakses Konten Multimedia (Image, Audio, Video) menggunkan cupcut
 
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+saya tela mencoaba Pembuatan Game dan Simulasi Menggunakan Logo , Logo sebenarnya bukan bahasa pemrograman, melainkan sebuah bahasa pemrograman yang dirancang khusus untuk tujuan pendidikan dan pengajaran, terutama untuk memahamkan konsep pemrograman kepada anak-anak dan pemula.
+
+Logo diciptakan oleh Seymour Papert pada tahun 1967 di Laboratorium Kecerdasan Buatan Massachusetts Institute of Technology (MIT). Logo menggunakan pendekatan visual dengan menggabungkan elemen-elemen grafis dan perintah pemrograman sederhana untuk menciptakan lingkungan pemrograman yang interaktif. Salah satu fitur terkenal dari Logo adalah "turtle graphics," di mana seorang "kura-kura" virtual digunakan untuk menggambar pola atau gambar di layar.
+
+Jadi, secara ringkas, Logo bukanlah logo sebagai simbol grafis, tetapi merupakan bahasa pemrograman yang memiliki fokus pada aspek visual dan pendidikan pemrograman.
+berikut adalah cotohnya
+![image](https://github.com/Irs622/informatika/assets/144502106/849d96ad-680c-4981-ae81-eb262ad8a72b)
+
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
@@ -289,6 +315,28 @@ saya  telah mencoba Model Machine Learning menggunakan HuggingFace
 ![image](https://github.com/Irs622/informatika/assets/144502106/d389ca7c-7497-43c4-abfe-464dd4c80be1)
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
+
+
+Data visualization dengan menggunakan tools mengacu pada proses membuat representasi grafis dari data menggunakan berbagai alat atau perangkat lunak yang dirancang khusus untuk tujuan tersebut. Visualisasi data bertujuan untuk membuat data lebih mudah dipahami, membantu mengidentifikasi pola, tren, dan hubungan dalam data, serta memungkinkan pengambilan keputusan yang lebih informasional.
+
+Berikut adalah beberapa tools yang umumnya digunakan untuk data visualization:
+
+Microsoft Excel: Excel menyediakan berbagai jenis grafik dan fitur visualisasi data yang memungkinkan pengguna membuat grafik dengan mudah.
+
+Tableau: Merupakan alat khusus visualisasi data yang populer. Tableau memungkinkan pengguna membuat dashboard interaktif dan visualisasi yang kompleks.
+
+Power BI: Dikembangkan oleh Microsoft, Power BI adalah alat analisis bisnis yang memungkinkan visualisasi data dan pembuatan laporan interaktif.
+
+Python (Matplotlib, Seaborn, Plotly): Python menyediakan sejumlah pustaka seperti Matplotlib, Seaborn, dan Plotly yang memungkinkan pengguna membuat visualisasi data yang kustom dan kompleks.
+
+R (ggplot2): R adalah bahasa pemrograman statistik yang memiliki pustaka seperti ggplot2 yang memungkinkan pembuatan grafik yang menarik dan informatif.
+
+Google Data Studio: Alat ini memungkinkan pengguna membuat laporan dan dashboard interaktif menggunakan data dari berbagai sumber.
+
+D3.js: D3.js adalah pustaka JavaScript yang kuat untuk membuat visualisasi data yang interaktif dan dapat disesuaikan.
+
+![image](https://github.com/Irs622/informatika/assets/144502106/5334363c-e703-4413-b8ef-b56d9bd115d7)
+
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 Data visualization adalah teknik untuk menggambarkan informasi dan data secara grafis. Ini membantu memahami pola, tren, dan hubungan dalam data dengan lebih baik. berikut adalah contohnya: 
