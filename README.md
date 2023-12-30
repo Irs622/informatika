@@ -188,9 +188,11 @@ Referensi installer [Dbeaver](https://dbeaver.io/download/)
 Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
-- Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
-- Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
-- Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
+saya telah membuat halaman web sederhana menggunkan html dan bisa di akses melalui web broser seperti google chroom
+seperti berikut 
+![image](https://github.com/Irs622/informatika/assets/144502106/e1357e5d-9175-49fc-b335-4d4f77735a09)
+![image](https://github.com/Irs622/informatika/assets/144502106/4ba9ef22-592f-4aba-97e6-12f13f8c7d36)
+![image](https://github.com/Irs622/informatika/assets/144502106/fb82cc4b-ea25-43c8-a19a-a9431677c503)
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
@@ -213,8 +215,9 @@ Dengan demikian, URL ini mengarah ke situs web yang disimpan di server dengan na
 Sebagai catatan tambahan, sering kali dalam pengembangan web modern, URL seperti ini dapat mengindikasikan bahwa kita berada di bagian dashboard dari suatu aplikasi web, dan `index.php` mungkin adalah berkas utama yang mengontrol tampilan dan fungsi dasbor tersebut.
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
-
-Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
+jadi ada bayak secali cara untuk melacak informasi serrver dari alamat domain salah satunya menggunakan web Check Host: jadi sebelumnya kita harus mengunjungi halaman website Check Host dan lakukan uji lokasi server. dan disanalah kita bisa memeriksa lokasi server berdasarkan domain atau alamat IP server.
+seperti berikut 
+![image](https://github.com/Irs622/informatika/assets/144502106/0e6e7285-2008-42d3-b580-8e2230699ef8)
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 berikut adlah file dari Halaman Web Menggunakan HTML, CSS, dan JavaScript yanng telah saya buat 
