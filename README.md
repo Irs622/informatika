@@ -237,7 +237,7 @@ Pastikan meta description mengandung kata kunci dan memikat pengguna potensial.
 
 Header Tags (H1, H2, H3, dst.):
 
-Gunakan tag header (<h1>, <h2>, dll.) untuk mengorganisir dan menyoroti judul dan sub-judul.
+Gunakan tag header (h1,h2,dll.) untuk mengorganisir dan menyoroti judul dan sub-judul.
 Pastikan kata kunci utama muncul dalam tag header.
 
 URL Struktur:
