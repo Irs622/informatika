@@ -220,7 +220,8 @@ seperti berikut
 ![image](https://github.com/Irs622/informatika/assets/144502106/0e6e7285-2008-42d3-b580-8e2230699ef8)
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
-berikut adlah file dari Halaman Web Menggunakan HTML, CSS, dan JavaScript yanng telah saya buat 
+berikut adlah file dari Halaman Web Menggunakan HTML, CSS, dan JavaScript yanng telah saya buat .  telah dapat di interksi dan telah terwarna karna menggunkan html, css dan js .
+![image](https://github.com/Irs622/informatika/assets/144502106/1f05d147-6eb0-46d3-a241-135100d2df36)
 
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
