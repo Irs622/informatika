@@ -476,9 +476,14 @@ dengan aku sebagai berikut
 saya telah mencoba protokol komonikasi Iot (MQTT) di kelas pengenalan informatika bersama kawan kawan saya ...
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+sebelumnya File CSV adalah singkatan dari Comma Separated Values. File CSV adalah file teks biasa yang berisi daftar data1. Semua file CSV dapat berisi angka dan huruf saja, dan menyusun data yang terkandung di dalamnya dalam bentuk tabel.dan saya telah memproses file CSV menggunakan google colab dan ini hasilnya.
+![image](https://github.com/Irs622/informatika/assets/144502106/bc3c2074-ed82-4a8e-bbdf-82c1e07bf6ed)
 
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+File ORC (Optimized Row Columnar) adalah format penyimpanan data yang dirancang untuk Hadoop dan sistem pemrosesan big data lainnya1. Ini adalah format penyimpanan kolom, yang berarti data disimpan dengan cara yang dioptimalkan untuk operasi berbasis kolom seperti penyaringan dan agregasi.dan saya telah memproses File Big Data ORC Menggunakan Google Colab dan ini hasilnya
+![image](https://github.com/Irs622/informatika/assets/144502106/471fcedf-daee-4b48-bf08-0bcf457f4fed)
+![image](https://github.com/Irs622/informatika/assets/144502106/5ff34cbb-9c5c-4ad3-ae12-e04d748868e1)
 
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
