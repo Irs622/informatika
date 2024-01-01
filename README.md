@@ -178,14 +178,14 @@ link provil https://www.hackerrank.com/profile/ichalprov
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
-
-Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
-Referensi tambahan [1](https://db-engines.com/en/ranking)
+saya telah mencoba meng mengistalasi database 
+![image](https://github.com/Irs622/informatika/assets/144502106/6a9d4cd7-a391-4fdd-8e32-9bdc9d487ed3)
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
+saya telah mengeksplorasi queri database menggunakan data base explorer 
 
-Referensi installer [Dbeaver](https://dbeaver.io/download/)
-Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
+![image](https://github.com/Irs622/informatika/assets/144502106/13bd57b8-8972-46b2-aa47-559b31d15b04)
+
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 saya telah membuat halaman web sederhana menggunkan html dan bisa di akses melalui web broser seperti google chroom
