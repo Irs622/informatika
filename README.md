@@ -279,9 +279,14 @@ Penerapan teknik SEO pada elemen HTML ini membantu mesin pencari memahami konten
 saya telah membuat file json dan telah saya up pada page ini 
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
-
+saya telah menhosting web sederhana yang telah saya buat dengan hostingan sederhana di dalam github 
+https://irs622.github.io/uasweb/#about
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+
+saya telah menhosting web sederhana yang telah saya buat dengan hostingan sederhana di dalam github 
+https://irs622.github.io/uasweb/#about
+
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 Kehadiran API caller mempermudah developer backend dalam membuat akses API tanpa harus menunggu hasil dari kerja developer. Sehingga kinerja pengembangan sistem pun menjadi lebih efisien.
