@@ -122,8 +122,8 @@ Algoritma:
 ![diagram drawio](https://github.com/Irs622/informatika/assets/144502106/ee1a08ff-13e4-406b-b572-c765d023d184)
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
-
-Referensi [1](https://scratch.mit.edu/)
+saya telah mencoba dan membuat beberapa game sederhana menggunkakan konsep fisaka menggunkan scratch 
+![image](https://github.com/Irs622/informatika/assets/144502106/6d362259-4ce9-46fb-ad99-58b3a688ae4c)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
